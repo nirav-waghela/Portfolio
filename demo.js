@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
       dotColor: '#11ec60',
       lineColor: '#11ec60'
     });
-    var intro = document.getElementById('intro');
-    intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
+    // var intro = document.getElementById('intro');
+    // intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
   }, false);
