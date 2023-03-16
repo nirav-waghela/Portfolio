@@ -513,7 +513,7 @@ a.hoverline:hover {
 
 @media(max-width:450px) {
   #intro {
-    margin-top: -950px;
+    margin-top: -800px;
     padding:10% 10% 10% 10%;
   }
 }
